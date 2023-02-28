@@ -8,7 +8,9 @@ const Featured = () => {
     <div className="featured">
       <div className="container">
         <div className="left">
-          <h1>Find the perfect freelance service for your business</h1>
+          <h1>
+            Find the perfect <i>freelance</i> service for your business
+          </h1>
           <div className="serach">
             <div className="serachimput">
               <img src={SearachPng} alt="" />
